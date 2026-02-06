@@ -1,0 +1,7 @@
+{
+  "id": "wyvern_paintings:wyvern_painting",
+  "name": "Wyvern Painting",
+  "placeBlock": "wyvern_paintings:wyvern_painting",
+  "maxStack": 64,
+  "icon": "hytale:block/wool_white"
+}

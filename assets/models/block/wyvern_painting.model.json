@@ -1,0 +1,12 @@
+{
+  "parent": "hytale:block/plane_wall",
+  "textures": {
+    "front": "hytale:block/wool_white",
+    "back": "hytale:block/planks_oak",
+    "frame": "hytale:block/stripped_oak"
+  },
+  "render": {
+    "doubleSided": false,
+    "supportsRuntimeFrontTextureOverride": true
+  }
+}

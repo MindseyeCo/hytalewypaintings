@@ -1,0 +1,15 @@
+{
+  "id": "wyvern_paintings",
+  "name": "Wyvern_Paintings",
+  "version": "1.0.0",
+  "description": "Placeable wall paintings that can display custom images by setting an image path at runtime.",
+  "authors": [
+    "WyvernScale"
+  ],
+  "entrypoints": {
+    "server": "scripts/server/main.lua",
+    "client": "scripts/client/main.lua"
+  },
+  "dependencies": [],
+  "minApiVersion": "0.1.0"
+}

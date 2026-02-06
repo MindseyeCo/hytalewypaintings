@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SWS",
+    "SSS"
+  ],
+  "keys": {
+    "S": "hytale:stick",
+    "W": "hytale:wool_white"
+  },
+  "result": {
+    "item": "wyvern_paintings:wyvern_painting",
+    "count": 1
+  }
+}
