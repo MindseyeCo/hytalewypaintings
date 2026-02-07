@@ -1,8 +1,8 @@
-# Wyvern_Paintings
+# Wyvern Paintings
 
 Author: **WyvernScale**
 
-`Wyvern_Paintings` is a Hytale mod that adds a wall-mounted painting block you can right-click to set an image path. The painting's front face updates to show the selected image.
+`Wyvern Paintings` is a Hytale mod that adds a wall-mounted painting block you can right-click to set an image path. The painting's front face updates to show the selected image.
 
 ## Features
 

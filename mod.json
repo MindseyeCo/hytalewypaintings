@@ -1,6 +1,6 @@
 {
   "id": "wyvern_paintings",
-  "name": "Wyvern_Paintings",
+  "name": "Wyvern Paintings",
   "version": "1.0.0",
   "description": "Placeable wall paintings that can display custom images by setting an image path at runtime.",
   "authors": [
